@@ -1,5 +1,9 @@
 #include "main.h"
 
+/**
+ * free_2D_array - Frees a 2D array of strings
+ * @array2D: The 2D array
+ */
 void free_2D_array(char **array2D)
 {
 	int i = 0;
